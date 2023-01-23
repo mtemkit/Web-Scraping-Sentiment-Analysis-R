@@ -1,4 +1,4 @@
-# Website-Sentiment-Analysis-R
+# Web-Scraping-Sentiment-Analysis-R
 
 ### Task
 
