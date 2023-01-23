@@ -21,7 +21,7 @@ R
 R Version 4.2.2
 
 <p align="left">
-  <img src="images/R-Version.png" width="500" height="300" title="R Version 4.2.2"></br>
+  <img src="images/R-Version.png" width="400" height="100" title="R Version 4.2.2"></br>
 </p>
 
 ### Live Demo:
